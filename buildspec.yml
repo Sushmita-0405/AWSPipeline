@@ -2,5 +2,5 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "This will fail"
+      - echo "This will fail for sure"
       - exit 1
